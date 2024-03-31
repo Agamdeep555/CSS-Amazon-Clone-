@@ -1,2 +1,2 @@
 <p> This is my first CSS mini project</p>
-<p>I have made Amazon clone</p>
+<p>I made Amazon clone</p>
